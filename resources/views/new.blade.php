@@ -23,11 +23,11 @@
     <h3 class="title">Comunicación Trimestral Crédito de Consumo</h3>
     <div class="container">
     
-        <table class="table table-bordered table-sm plus-size">
+        <table class="table2 table-sm plus-size">
             <tbody>
                 <tr>
-                    <th>Nombre Titular</th>
-                    <th>9000</th>
+                    <th class="no-top">Nombre Titular</th>
+                    <th class="no-top">9000</th>
                 </tr>
                 <tr>
                     <th>Fecha de la Información</th>
@@ -50,11 +50,11 @@
         <div class="caev container col-2">
                 CAEV: <br> 18.00%
         </div>
-        <table class="table table-bordered table-sm plus-size">
+        <table class="table2 table-sm plus-size">
             <tbody>
                 <tr>
-                    <th>Plazo de Crédito:</th>
-                    <th class="right">9000</th>
+                    <th class="no-top">Plazo de Crédito:</th>
+                    <th class="no-top right">9000</th>
                 </tr>
                 <tr>
                     <th>Saldo del Crédito:</th>
@@ -90,11 +90,11 @@
     
     <div class="container">
         <hr>
-        <table class="table table-bordered table-sm w-auto ">
+        <table class="table2 table-sm w-auto ">
             <tbody>
                 <tr>
-                    <th>Número de Cuotas Pagadas:</th>
-                    <th>9000</th>
+                    <th class="no-top">Número de Cuotas Pagadas:</th>
+                    <th class="no-top">9000</th>
                 </tr>
                 <tr>
                     <th>Número de Cuotas Vencidas no Pagadas:</th>
@@ -112,12 +112,12 @@
                 <p>Detalle</p>
             </div>          
             <div>
-            <table class="table table-bordered table-sm w-auto">
+            <table class="table2 table-sm w-auto">
                 <tbody  class="center">
                     <tr>
-                        <th>Cuota N°</th>
-                        <th>Monto Pagado</th>
-                        <th>Fecha vencimiento</th>
+                        <th class="no-top">Cuota N°</th>
+                        <th class="no-top">Monto Pagado</th>
+                        <th class="no-top">Fecha vencimiento</th>
                     </tr>
                     <tr>
                         <th>x</th>
@@ -173,14 +173,14 @@
         <div>
             <p>Valor de la Cuota de la Referencia: x</p>
         </div>
-        <table class="table table-bordered table-sm">
+        <table class="table2 table-sm">
             <tbody>
                 <tr>
-                    <th>Tipo Seguro</th>
-                    <th>Costo Mensual ($)</th>
-                    <th>Costo Total ($)</th>
-                    <th>Proveedor de Servicios</th> 
-                    <th>Cobertura</th>
+                    <th class="no-top">Tipo Seguro</th>
+                    <th class="no-top">Costo Mensual ($)</th>
+                    <th class="no-top">Costo Total ($)</th>
+                    <th class="no-top">Proveedor de Servicios</th> 
+                    <th class="no-top">Cobertura</th>
                 </tr>
                 <tr>
                     <th>x</th>

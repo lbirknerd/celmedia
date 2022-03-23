@@ -66,5 +66,21 @@ th{
     height: 35px;
 }
 
+.table2 {
+    border-collapse:separate;
+    border:solid black 1px;
+    border-radius:6px;
+}
 
+td, th {
+    border-left:solid black 1px;
+    border-top:solid black 1px;
+}
+
+td:first-child, th:first-child {
+     border-left: none;
+}
+.no-top{
+    border-top: none;
+}
 
