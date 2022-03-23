@@ -49,13 +49,22 @@ hr{
 .negrita{
     font-weight: bold;
 }
-.test{
+.plus-size{
     width: 40%;
 }
-th {
+th{
     font-weight: 400;
 }
+.right{
+    text-align: right; 
+}
+.center{
+    text-align: center;
+}
 
+.small{
+    height: 35px;
+}
 
 
 

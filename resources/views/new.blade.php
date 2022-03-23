@@ -23,7 +23,7 @@
     <h3 class="title">Comunicación Trimestral Crédito de Consumo</h3>
     <div class="container">
     
-        <table class="table table-bordered w-auto">
+        <table class="table table-bordered table-sm plus-size">
             <tbody>
                 <tr>
                     <th>Nombre Titular</th>
@@ -50,35 +50,35 @@
         <div class="caev container col-2">
                 CAEV: <br> 18.00%
         </div>
-        <table class="table table-bordered test">
+        <table class="table table-bordered table-sm plus-size">
             <tbody>
                 <tr>
                     <th>Plazo de Crédito:</th>
-                    <th>9000</th>
+                    <th class="right">9000</th>
                 </tr>
                 <tr>
                     <th>Saldo del Crédito:</th>
-                    <th>x</th>
+                    <th class="right">x</th>
                 </tr>
                 <tr>
                     <th>Valor de la cuota (pesos):</th>
-                    <th>x</th>
+                    <th class="right">x</th>
                 </tr>
                 <tr>
                     <th>Fecha Próximo Pago:</th>
-                    <th>x</th>
+                    <th class="right">x</th>
                 </tr>
                 <tr>
                     <th>Costo Total de Prepago:</th>
-                    <th>x</th>
+                    <th class="right">x</th>
                 </tr>
                 <tr>
                     <th>Garantias Vigentes:</th>
-                    <th>x</th>
+                    <th class="right">x</th>
                 </tr>
                 <tr>
                     <th>Número de Cuota:</th>
-                    <th>x</th>
+                    <th class="right">x</th>
                 </tr>
             </tbody>
         </table>
@@ -90,7 +90,7 @@
     
     <div class="container">
         <hr>
-        <table class="table table-bordered w-auto ">
+        <table class="table table-bordered table-sm w-auto ">
             <tbody>
                 <tr>
                     <th>Número de Cuotas Pagadas:</th>
@@ -112,8 +112,8 @@
                 <p>Detalle</p>
             </div>          
             <div>
-            <table class="table table-bordered w-auto">
-                <tbody>
+            <table class="table table-bordered table-sm w-auto">
+                <tbody  class="center">
                     <tr>
                         <th>Cuota N°</th>
                         <th>Monto Pagado</th>
@@ -173,7 +173,7 @@
         <div>
             <p>Valor de la Cuota de la Referencia: x</p>
         </div>
-        <table class="table table-bordered w-auto ">
+        <table class="table table-bordered table-sm">
             <tbody>
                 <tr>
                     <th>Tipo Seguro</th>
@@ -211,11 +211,11 @@
                     <th>x</th>
                 </tr>
                 <tr>
-                    <th>Total:</th>
-                    <th>x</th>
-                    <th>x</th>
-                    <th>x</th>
-                    <th>x</th>
+                    <th class="negrita">Total:</th>
+                    <th class="negrita">x</th>
+                    <th class="negrita">x</th>
+                    <th></th>
+                    <th></th>
                 </tr>
             </tbody>
         </table>
@@ -252,7 +252,7 @@
     
     <div class="container">
         <hr>
-        <div class="row">
+        <div class="row small">
             <div class="col">
                 <p>Interes Moratorio:</p>
             </div>
@@ -260,7 +260,7 @@
                 <p>Tasa Máxima Convencional</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row small">
             <div class="col">
                 <p>Gastos de Cobranza (%):</p>
             </div>
@@ -268,13 +268,13 @@
                 <p>Un 9% para las deudas o cuotas de hasta 10 UF</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row small">
             <div class="col"></div>
             <div class="col">
                 <p>Un 6% para las deudas de 10 y hasta 50 UF</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row small">
             <div class="col"></div>
             <div class="col">
                 <p>Un 3% para deudas de más de 50 UF</p>
